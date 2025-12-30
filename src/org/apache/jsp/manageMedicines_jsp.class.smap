@@ -1,0 +1,18 @@
+SMAP
+manageMedicines_jsp.java
+JSP
+*S JSP
+*F
++ 0 manageMedicines.jsp
+manageMedicines.jsp
+*L
+1,32:45
+33,19:78
+51,2:97
+53,4:99,3
+57:111
+58,2:112,3
+60,3:118
+63,9:122
+71,7:131
+*E
